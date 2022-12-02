@@ -1,0 +1,65 @@
+[
+    {
+        "threadName": "Thread 1",
+        "threadID": "threadNumber1",
+        "threadPosts": [
+            {
+                "postName": "Thread1 Post1",
+                "postCategory": "doubt",
+                "postID": "threadNumber1postNumber1"
+            },
+            {
+                "postName": "Thread1 Post2",
+                "postCategory": "suggestion",
+                "postID": "threadNumber1postNumber2"
+            },
+            {
+                "postName": "Thread1 Post3",
+                "postCategory": "clarification",
+                "postID": "threadNumber1postNumber3"
+            }
+        ]
+    },
+    {
+        "threadName": "Thread 2",
+        "threadID": "threadNumber2",
+        "threadPosts": [
+            {
+                "postName": "Thread2 Post1",
+                "postCategory": "doubt",
+                "postID": "threadNumber2postNumber1"
+            },
+            {
+                "postName": "Thread2 Post2",
+                "postCategory": "suggestion",
+                "postID": "threadNumber2postNumber2"
+            },
+            {
+                "postName": "Thread2 Post3",
+                "postCategory": "clarification",
+                "postID": "threadNumber2postNumber3"
+            }
+        ]
+    },
+    {
+        "threadName": "Thread 3",
+        "threadID": "threadNumber3",
+        "threadPosts": [
+            {
+                "postName": "Thread3 Post1",
+                "postCategory": "doubt",
+                "postID": "threadNumber3postNumber1"
+            },
+            {
+                "postName": "Thread3 Post2",
+                "postCategory": "suggestion",
+                "postID": "threadNumber3postNumber2"
+            },
+            {
+                "postName": "Thread3 Post3",
+                "postCategory": "clarification",
+                "postID": "threadNumber3postNumber3"
+            }
+        ]
+    }
+]

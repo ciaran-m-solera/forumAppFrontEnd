@@ -1,0 +1,10 @@
+.create-forum-post-page {
+    text-align: left;
+    margin: 10px;
+}
+.create-post-form{
+    display: flex;
+    flex-flow: column;
+    align-items: flex-start;
+    gap: 10px;
+}
